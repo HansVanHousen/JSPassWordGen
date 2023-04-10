@@ -1,7 +1,7 @@
 03 JavaScript: Password Generator
 This web page is made to generate a random password anywhere from 8 to 127 characters in length using uppcase and lowercase letters as well as numbers and special characters as defined in the code. Below are links, screen shots and Acceptance Criteria, and grading requirements. 
-github repo: 
-deployed ap:
+github repo: https://github.com/HansVanHousen/JSPassWordGen
+deployed ap: https://hansvanhousen.github.io/JSPassWordGen/
 
 screenshot: ![img](./img/SS.png)
 screenshot of git issue. I had finished this project, and then when I went to make a push to my remote repo I got a bunch of erros. I had a TA help, but then it happened again, and then  tutor tried and failed to fix it easily, so I am now just coping and pasting the content over. This screenshot is really just to show that I had been making commits over the course of a few days, and not all within 20 minutes. 
